@@ -1,5 +1,9 @@
 package com.luban.easyfactory;
 
+import com.luban.entity.Curriculumn;
+import com.luban.entity.InsideCurriculum;
+import com.luban.entity.PublicCurriculum;
+
 /**
  * 简单工厂模式
  * 课程工厂

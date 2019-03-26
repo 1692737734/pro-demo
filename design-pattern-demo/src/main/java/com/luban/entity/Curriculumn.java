@@ -1,4 +1,4 @@
-package com.luban.easyfactory;
+package com.luban.entity;
 
 /**
  * 课程类
